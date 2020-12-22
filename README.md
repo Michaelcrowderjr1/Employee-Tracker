@@ -7,12 +7,12 @@
 # Description
 The purpose of this project is to manage all working employees in a company. Human resources department uses applications like these to ADD/UPDATE/DELETE employees and their ROLES/DEPARTMENTS/SALARIES. Application was developed using NODE, INQUIRER and MySQL.
 This command-line application allows you to:
-Add departments, roles, employees
-View departments, roles, employees
-Update employee roles
-Update employee managers
-View employees by manager
-Delete departments, roles, and employees
+* Add departments, roles, employees
+* View departments, roles, employees
+* Update employee roles
+* Update employee managers
+* View employees by manager
+* Delete departments, roles, and employees
 
 ## Table of Contents
 * [Installation](#installation)

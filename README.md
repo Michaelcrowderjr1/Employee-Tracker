@@ -1,5 +1,9 @@
 # Employee-Tracker
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Badge for GitHub repo top language(s)](https://img.shields.io/badge/-JavaScript-blue) 
+
+
 # Description
 The purpose of this project is to manage all working employees in a company. Human resources department uses applications like these to ADD/UPDATE/DELETE employees and their ROLES/DEPARTMENTS/SALARIES. Application was developed using NODE, INQUIRER and MySQL.
 This command-line application allows you to:
